@@ -1,0 +1,4 @@
+outlines
+========
+
+Mon - Thurs
