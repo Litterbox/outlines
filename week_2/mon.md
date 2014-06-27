@@ -18,5 +18,7 @@
 ### DOM LEVEL II
 
 * Event Bubbling
-  * EventTarget
+  * event.target and currentTarget
+  * addEventListener
+  * create a delegate
 * Event Capturing
