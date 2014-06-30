@@ -1,8 +1,13 @@
 # More DOM Events
 
 
+| Objectives |
+| :-----    |
+| Describe DOM LEVEL II and form submisssion concerns by developing events handlers for them |
+| Apply event handlers to detect changes inside elements by creating a delegate event |
+
 ## Morning
-### Form Events and DOM Manipulation
+### Form Events and More DOM Manipulation
 
 * Form Events
   * onSubmit
@@ -21,4 +26,6 @@
   * event.target and currentTarget
   * addEventListener
   * create a delegate
-* Event Capturing
+    * write a `withinElement` function to find matching elements along the path of the bubbling event
+
+* Event Capturing?
