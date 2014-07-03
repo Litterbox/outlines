@@ -6,6 +6,15 @@
 	* small group
 
   
+## Student Stuff
+
+* HW-Submission
+* HipChat
+* Props Board
+* Schedule
+* Resources/Notes Repo
+* 1:1 Schedule
+
 
 ##Start of the day
 * Explain to them how the class is going to function
