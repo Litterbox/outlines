@@ -9,29 +9,46 @@
 
 Building up to express
 
-
-* A little server
+* A little server (10 min)
   * intro `http`
   * dealing with callbacks
-* Middleware
+* Middleware (5 min)
   * `Connect`
-  * `Bennefits`
-* Intro Express
-* Routing types of requests
+  * `Benefits`
+* Intro Express (25min)
+  * Routing types of requests
     * `GET`
-    * `POST`
-
+    * Rendering responses
+  * Routing Params
+    * `GET` with Url Params
+* Calculator Exercise (30min)
+  * SETUP routes that take two `params`
+    * `/add`
+    * `/subtract`
+    * `/multiply`
+    * `/divide`
 
 #### Afternoon
 
 Views in Express 
 
-* Setting up views
-  * Templating responses
-
+* Continue Routing
+  * `GET`
+    * Create an Array of fake Data
+    * **INDEX** method to show all Data
+      * Rendering a concatenated string
+  * `POST`
+    * CREATE method
+    * Saving Params to Array
+    * `res.redirect` to **INDEX**
+* Views 
+  * Intro Templating `ejs`
+    * Creating a form
+    * Iterating through list
 
 ### Monday Lab
-* Calculator Lab
+
+* NEWS FEED LAB
 
 ### Tuesday
 ### Working with API's
@@ -41,14 +58,26 @@ Views in Express
 
 Interacting with API
 
-* Making http requests
+* Usign `http` requests
   * `Get`
     * sending params
     * formating responses
+    * Movies API
+* Rendering Movie Response Data
 
 #### Afternoon
 
-Setting up controllers and using a `faux` database.
+More controller functionality using a faux DB for CRUD
+
+* Interacting with a Faux DB
+  * Review
+    * INDEX
+    * Create
+  * Setup Faux DB using Array
+    * Users
+  * Show
+  * PUT 
+
 
 ### Wednesday
 Intro SQL DAY
