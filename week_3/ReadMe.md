@@ -74,7 +74,7 @@ More controller functionality using a faux DB for CRUD
     * INDEX
     * Create
   * Setup Faux DB using Array
-    * Users
+    * Books
   * Show
   * PUT 
 
