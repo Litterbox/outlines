@@ -41,6 +41,8 @@ Views in Express
     * CREATE method
     * Saving Params to Array
     * `res.redirect` to **INDEX**
+  * Show
+    * route.params
 * Views 
   * Intro Templating `ejs`
     * Creating a form
@@ -75,8 +77,12 @@ More controller functionality using a faux DB for CRUD
     * Create
   * Setup Faux DB using Array
     * Books
-  * Show
-  * PUT 
+  * PUT
+    * handling forms
+      * browsers and `POST` or `GET`
+    * parsing `query` params
+    * parsing `body` params
+  * DELETE
 
 
 ### Wednesday
@@ -86,15 +92,21 @@ Intro SQL DAY
 
 Create tables insert, select
 
+* [https://github.com/wdi-sf-march-2014/notes/blob/master/DatabasesIntro/DatabasesIntro.md](https://github.com/wdi-sf-march-2014/notes/blob/master/DatabasesIntro/DatabasesIntro.md)
+
 
 #### Afternoon
 
 JOINS and intro Node Postgres
+
+* [https://github.com/wdi-sf-march-2014/notes/blob/master/DatabasesIntro/joins.md](https://github.com/wdi-sf-march-2014/notes/blob/master/DatabasesIntro/joins.md)
 
 ### Thursday
 
 Express with SQL
 
 #### Morning
+
+
 
 #### Afternoon
