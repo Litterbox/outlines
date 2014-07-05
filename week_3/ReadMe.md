@@ -107,6 +107,14 @@ Express with SQL
 
 #### Morning
 
+* Intro to Node Postgres
+* Connecting
+  * A Basic Query
+* Practicing `SELECT`
+  * Make a `SELECT` together
+* Practicing `INSERT`
+  * Make a `INSERT` together
+
 
 
 #### Afternoon
