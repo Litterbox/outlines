@@ -107,14 +107,26 @@ Express with SQL
 
 #### Morning
 
+Node Postgres
+
 * Intro to Node Postgres
 * Connecting
   * A Basic Query
-* Practicing `SELECT`
+* Practice `SELECT`
   * Make a `SELECT` together
-* Practicing `INSERT`
+* Practice `INSERT`
   * Make a `INSERT` together
 
 
-
 #### Afternoon
+
+Create A Postgres Module
+
+* Create A DB module
+  * Create Methods for SELECT/INSERT
+* Utilize inheritance to DRY up Code
+
+
+#### MINI LAB
+
+* ORM LAB
