@@ -13,11 +13,14 @@ Theme: Back to the browser
 
 #Afternoon
 
-##Dom Events
-*  query selectors, (documentGetElementById, ..className
+###DOM Events
+*  query selectors, (`document.getElementById`, `ClassName`)
 *  Events (onClick, HouseO), show them resources
 *  "this"
 *  Adding click events with loops
+
+###Trivial DOM Manip.
+* `.innerHTML`
 
 ##Calculator
 
